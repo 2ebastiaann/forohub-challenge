@@ -69,7 +69,7 @@ La documentación Swagger estará disponible en:
 http://localhost:8081/swagger-ui/index.html
 
 
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 Java 17
 Spring Boot
@@ -81,6 +81,6 @@ Maven
 Lombok
 
 
-##Personas Desarrolladoras del Proyecto
+## Personas Desarrolladoras del Proyecto
 
 Sebastián Carmona
