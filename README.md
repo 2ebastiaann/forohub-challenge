@@ -1,6 +1,6 @@
 # ForoHub 🖥️
-![Portada](<img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/4d3305f9-2762-4bce-ba7a-af8051d47b1a" />
-) 
+<img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/4d3305f9-2762-4bce-ba7a-af8051d47b1a" />
+
 
 ---
 
@@ -44,19 +44,19 @@ Es un proyecto realizado como ejercicio del curso, con intención de retomarlo y
 4. **Ver tópicos públicamente**  
 
 ### Ejemplo de POST /topicos
-![Captura Crear Tópico](<img width="1095" height="336" alt="image" src="https://github.com/user-attachments/assets/121bb750-11c4-4642-96e3-2bcbf30b5d26" />
-)
+<img width="1095" height="336" alt="image" src="https://github.com/user-attachments/assets/121bb750-11c4-4642-96e3-2bcbf30b5d26" />
+
 
 ### Ejemplo de GET /topicos
-![Captura Listar Tópicos](<img width="772" height="789" alt="image" src="https://github.com/user-attachments/assets/20850c50-14d1-4548-ae47-ba89a37f019f" />
-)
+<img width="772" height="789" alt="image" src="https://github.com/user-attachments/assets/20850c50-14d1-4548-ae47-ba89a37f019f" />
+
 
 ---
 
 ## Acceso al Proyecto
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/forohub.git
+git clone https://github.com/2ebastiaann/forohub-challenge.git
 ```
 Configurar base de datos MySQL y credenciales en application.properties.
 
